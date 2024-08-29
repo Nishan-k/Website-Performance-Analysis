@@ -1,2 +1,2 @@
 # Website Performance Analysis
- This project provides a comprehensive analysis of website performance. It includes tools to gather, process, and visualize data related to various performance metrics such as page load time, response time, and resource usage. The goal is to identify bottlenecks and optimize website speed and efficiency. 
+ This project provides a comprehensive analysis of website performance. We will be analyzing various important metrics like a website's functionality, user engagement, and overall success in achieving the business goal. It will helps the business owners to know their user behavior and also help the owners to the conversion rates and get an understanding of how is the user experience and make the necessary changes.
